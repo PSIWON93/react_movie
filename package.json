@@ -1,0 +1,25 @@
+{
+  "name": "react_movie",
+  "version": "1.0.0",
+  "description": "web application, about \u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[C\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[W\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[C\u001b[Cranking of movies ()\u001b[Dwith react)\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[\u001b[3~",
+  "main": "app.js",
+  "scripts": {
+    "test": "\"\"\u001b[Dgood\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PSIWON93/react_movie.git"
+  },
+  "keywords": [
+    "movie"
+  ],
+  "author": "parksiwon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PSIWON93/react_movie/issues"
+  },
+  "homepage": "https://github.com/PSIWON93/react_movie#readme",
+  "dependencies": {
+    "prop-types": "^15.6.2"
+  }
+}
