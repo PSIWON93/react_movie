@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/PSIWON93/react_movie#readme",
   "dependencies": {
-    "prop-types": "^15.6.2"
+    "prop-types": "^15.6.2",
+    "react-lines-ellipsis": "^0.14.0"
   }
 }
